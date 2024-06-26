@@ -6,17 +6,27 @@
   Thank you for visiting my profile and I hope my projects are of interest to you!
 </h3>
 
+<br>
+
 ## 🔭 Current Work
 - I’m currently working on **DAX_TRADING**
+
+<br>
 
 ## 🌱 Learning
 - I’m currently learning **Flutter, Blockchain, Swift**
 
+<br>
+
 ## 💬 Ask Me About
 - **React**
 
+<br>
+
 ## 📫 Contact Me
 - How to reach me: **smithmoreno220@gmail.com**
+
+<br>
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -27,6 +37,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maickmoreno12" height="30" width="40" />
   </a>
 </p>
+
+<br>
 
 ## 🛠️ Languages and Tools
 <p align="left"> 
@@ -95,6 +107,8 @@
   </a>
 </p>
 
+<br>
+
 ## ☕ Support
 <p>
   <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/devsaga">
@@ -103,11 +117,13 @@
 </p>
 <br><br>
 
+<br>
+
 ## 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsaga532&show_icons=true&locale=en&layout=compact" alt="devsaga532" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsaga532&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="devsaga532" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devsaga532&show_icons=true&locale=en" alt="devsaga532" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devsaga532&show_icons=true&locale=en&bg_color=00000000" alt="devsaga532" />
 </p>
