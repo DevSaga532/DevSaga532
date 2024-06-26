@@ -5,7 +5,11 @@
 </h1>
 
 <h3 align="center">
-  <a href="https://github.com/Denver
+  I am a passionate mobile app developer with an unwavering enthusiasm for learning and growing in the field of mobile development. 
+  In my repository, you will find a variety of projects that reflect my dedication and passion for programming. 
+  I am always open to collaborations and new opportunities to learn and share knowledge. 
+  Thank you for visiting my profile and I hope my projects are of interest to you!
+</h3>
     
 <br>
 
