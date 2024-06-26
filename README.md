@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smith Moreno</h1>
-<h3 align="center">Soy un apasionado desarrollador de aplicaciones móviles con un entusiasmo inquebrantable por aprender y crecer en el campo del desarrollo móvil.En mi repositorio encontrarás una variedad de proyectos que reflejan mi dedicación y pasión por la programación. Estoy siempre abierto a colaboraciones y nuevas oportunidades para aprender y compartir conocimientos. ¡Gracias por visitar mi perfil y espero que mis proyectos sean de tu interés!</h3>
+<h3 align="center">I am a passionate mobile app developer with an unwavering enthusiasm for learning and growing in the field of mobile development. In my repository you will find a variety of projects that reflect my dedication and passion for programming. I am always open to collaborations and new opportunities to learn and share knowledge. Thank you for visiting my profile and I hope my projects are of interest to you!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsaga532" alt="devsaga532" /></a> </p>
 
