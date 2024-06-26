@@ -10,8 +10,7 @@
   In my repository, you will find a variety of projects that reflect my dedication and passion for programming. 
   I am always open to collaborations and new opportunities to learn and share knowledge. 
   Thank you for visiting my profile and I hope my projects are of interest to you!
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+passionate+developer;Always+learning+new+things;Open+to+collaborations&center=true&width=600&height=50">
-  </a>
+   
 </h3>
 
     
