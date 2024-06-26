@@ -27,7 +27,7 @@
 <br>
 
 ## 💬 Ask Me About
-- **React**
+- **React Native**
 
 <br>
 
